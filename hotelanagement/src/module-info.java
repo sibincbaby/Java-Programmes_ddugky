@@ -1,0 +1,2 @@
+module hotelanagement2 {
+}
